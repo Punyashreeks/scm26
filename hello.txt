@@ -1,6 +1,5 @@
 hello amity university bengaluru
 btech cse
 ece
-IOT
-AIML
+
 
