@@ -5,6 +5,8 @@ Btech Mtech CSE
 Devops
 FSD
 IOT
-
+FEE
+AIML
+Oops
 
 
