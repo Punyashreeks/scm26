@@ -1,3 +1,5 @@
 Added new feature logic
 Fixed bug in duplicate finder
 Improved README documentation
+Resolved merge conflicts in master branch
+updated .gitignore to exclude build files
