@@ -1,0 +1,2 @@
+Laser action impossible in thermal equilibrium due to lack of population inversion 
+Stimulated emission rate << spontaneous emission rate when N2 << N1
